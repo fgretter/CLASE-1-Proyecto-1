@@ -7,7 +7,6 @@
 	</head>
 	
 	<body>
-
 		<header>
 			<nav>
 				
@@ -15,6 +14,10 @@
 		</header>
 		
 		<section>
+			<div>	
+				<img src="">
+			</div>
+			
 			<article>
 				<img src="">
 				<h1>Deign with Love</h1>
@@ -54,15 +57,281 @@
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					cillum dolore eu fugiat nulla pariatur.
 				</p>
 				<button>
 					Purchase
 				</button>
 			</article>
+		
+		</section>
+			
+		<section>
+			<div>
+				<article>
+					<h1>P A R A L L A X  S C R O L L I N G</h1>
+					<p>Duis autem vel eum irirure dolor in hendrerit in vulputate velit ese molestieconsequat dolore eu feugiat nulla facillisis at vero eros et accumsan et iusto odio dignissim.</p>
+					<a href="www.google.com"><h3>P U R C H A S E  N O W</h3>
+				</article>
+			</div>
+
+			<div>
+				<h2>Huge unlimited Features</h2>
+			</div>
+
+			<article>
+				<img src="">
+				<h1>Clean and Unique</h1>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>User interface</h1>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Graphic Design</h1>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Bugs Free Design</h1>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Advanced Code</h1>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Endless Possibilities</h1>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
 		</section>
 
+		<section>
+			<h1>Portfolio Showcase</h1>
+			
+			<div>
+			<h1>ART WEEK 2014</h1>
+			<h3>Business / Fashion</h3>	
+			<button>Search</button>
+			<button>Link</button>
+			</div>
+
+			<article>
+				<img src="ICONO COMILLAS">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+				<H6>GFX PARTNER - CEO</H6>
+				<PASADOR(?)>
+
+				<img src="">
+				<img src="">
+				<img src="">
+			</article>
+		</section>
+
+		<section>
+			<h1>Meet the team</h1>
+
+			<article>
+				<TWITTERFEED(?)>
+				<h1>David Martin</h1>
+				<h3>MANAGER</h3>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<TWITTERFEED(?)>
+				<h1>Reena Scott</h1>
+				<h3>FOUNDER</h3>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+
+			<article>
+				<TWITTERFEED(?)>
+				<h1>Paul Smith</h1>
+				<h3>DIRECTOR</h3>
+				<p>Phaselius sit amet tristique ligula. Donec iaculis leo suscipit ultricies interdum esuada dames ant infaucibus.</p>
+			</article>
+		</section>
+
+		<section>
+			<article>
+			<h1>Our Services</h1>
+				TABLA?
+			</article>
+
+			<article>
+				<h1>Our Skills</h1>
+				GRAFICO DE BARRAS
+			</article>	
+		</section>
+
+		<section>
+			<h1>Our Work Progress</h1>
+
+			<article>
+				<img src="">
+				<h1>Planning</h1>
+				<p>Quisque tellius risus, adipisci viverra bibendum urna.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Prototyping</h1>
+				<p>Quisque tellius risus, adipisci viverra bibendum urna.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Designing</h1>
+				<p>Quisque tellius risus, adipisci viverra bibendum urna.</p>
+			</article>
+
+			<article>
+				<img src="">
+				<h1>Product Launch</h1>
+				<p>Quisque tellius risus, adipisci viverra bibendum urna.</p>
+			</article>
+		</section>
+
+		<section>
+			<h1>Pricing Tables</h1>
+
+			<article>
+				<h1>Basic</h1>
+				<h2>$17 / Month</h2>
+				<p>Billed annualy or $19 month-to-month</p>
+				<ol>
+					<li>1 User</li>
+					<li>1 Dashboard</li>
+				</ol>
+			</article>
+
+			<article>
+				<h1>Business</h1>
+				<h2>$53 / Month</h2>
+				<p>Billed annualy or $19 month-to-month</p>
+				<ol>
+					<li>3 Users</li>
+					<li>Unlimited Dashboards</li>
+					<li>Custom CSS</li>
+				</ol>
+			</article>
+			
+			<article>
+				<h1>Premium</h1>
+				<h2>$66 / Month</h2>
+				<p>Billed annualy or $19 month-to-month</p>
+				<ol>
+					<li>20 Users</li>
+					<li>Unlimited Dashboards</li>
+					<li>Custom CSS</li>
+					<li>IP Restriction</li>
+					<li>Custom domain</li>
+				</ol>
+			</article>
+
+			<article>
+				<h1>Ultimate</h1>
+				<h2>$89 / Month</h2>
+				<p>Billed annualy or $19 month-to-month</p>
+				<ol>
+					<li>3 Users</li>
+					<li>Unlimited Dashboards</li>
+					<li>Custom CSS</li>
+					<li>IP Restriction</li>
+					<li>Custom domain</li>
+				</ol>
+			</article>
+		</section>
+
+		<section>
+			<div>
+				<img src="">
+				<button>BUY</button>
+			</div>
+
+			<article>
+				<h1>About Us</h1>
+				<p>HUGE Website Builder is a big library of pre-designed web elements which help you create website in few minutes.
+				
+				Each and every design element was designed for retina ready display on all kind of devices.
+				</p>
+
+				<a href="www.google.com"><p>Read more >></p></a>
+
+				<div>
+					<img src="">
+					<h2>RSS FEED</h2>
+				</div>
+
+				<div>
+					<img src="">
+					<h2>LIKE US</h2>
+				</div>
+
+				<div>
+					<img src="">
+					<h2>FOLLOW US</h2>
+				</div>
+
+				<div>
+					<img src="">
+					<h2>FOLLOW US</h2>
+				</div>
+
+				<div>
+					<img src="">
+					<h2>FOLLOW US</h2>
+				</div>
+
+				<div>
+					<img src="">
+					<h2>PLUS 1 US</h2>
+				</div>
+			</article>
+
+			<article>
+				<h1>Latest News</h1>
+
+				<div>
+					<img src="">
+					<h2>A Clean Website Gives More Experience To The Visitors</h2>
+					<h3>Dec 12 - 2015</h3>
+				</div>
+
+				<div>
+					<img src="">
+					<h2>HUGE Offers Unilimited Design Elements To Get Started</h2>
+					<h3>Dec 12 - 2015</h3>
+
+				<div>
+					<img src="">
+					<h2>How You Can Impact Your Customers With Great Design</h2>
+					<h3>Dec 12 - 2015</h3>
+				</div>
+				
+				<a href="www.google.com"><h4>Read more >></h4></a>
+			</article>
+
+			<article>
+				<h1>Twitter Feed</h1>
+				TWITTER FEED
+				<a href="www.google.com"><h4>Read more >></h4></a>
+			</article>
+		</section>
+
+		FOOTER NAV???
 	</body>
 
 </html>
